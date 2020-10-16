@@ -1,2 +1,3 @@
-# calculator
-A small React Calculator App to experiment a bit with parsing algorithms. Also a DHBW assignment.
+# Calculator
+
+Use `npm ci` to install dependencies, `npm start` to start the calculator. 
